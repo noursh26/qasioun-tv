@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1001,
+    "link": "whatsapp",
+    "type": "subscription",
+    "title": "قاسيون نت ",
+    "imageUrl": "https://i.postimg.cc/k47XDWgf/7877877878-copy-copy.png",
+    "textColor": "#FFFFFF",
+    "buttonText": "تجديد الآن",
+    "description": "استمتعوا مع الباقة المنوعة من الافلام والمسلسلات الحصرية",
+    "backgroundColor": "#081830"
+  },
+  {
+    "id": 1002,
+    "link": "https://www.saway.store",
+    "type": "company",
+    "title": "شركة ســوا المتحدة للتصميم والبرمجة",
+    "imageUrl": "https://i.postimg.cc/QCH6nHbJ/212.png",
+    "textColor": "#FFFFFF",
+    "buttonText": "زيارة الموقع",
+    "description": "QASUION.TV الــشــركــة الـمـنــتـجـة لـتــطــبــيــق",
+    "backgroundColor": "#1A237E"
+  },
+  {
+    "id": 1010,
+    "link": "https://http://www.qasioun1.net/",
+    "type": "live",
+    "title": "",
+    "imageUrl": "https://i.postimg.cc/CMGr5xcG/564646.png",
+    "textColor": "#FFFFFF",
+    "buttonText": "مشاهدة مباشرة",
+    "description": "مشاهدة القنوات المباشرة والافلام والمسلسلات بأفضل جودة",
+    "backgroundColor": "#B71C1C"
+  }
+]
